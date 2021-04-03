@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App and [Reactjs Line Login](https://www.npmjs.com/package/reactjs-line-login)
 
 Demo is here one [Heroku](https://finsch-line-login.herokuapp.com/)
 
@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
